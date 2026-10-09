@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=900&size=58&pause=450&color=8B4513&center=true&vCenter=true&width=1200&height=140&lines=DEADSIDE+HACK+2026;ESP+%7C+AIMBOT+%7C+RADAR;SURVIVE+THE+ZONE" alt="Deadside Hack 2026" />
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/95e9f701-3d67-49e8-a50c-da96cc9b245d" />
 
 <br/>
 
